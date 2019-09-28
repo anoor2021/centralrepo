@@ -1,3 +1,3 @@
-# localrepo
-my local code repo
+# centralrepo
+my central code repo
 This is for learning purpose

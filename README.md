@@ -1,3 +1,3 @@
 # centralrepo
 my central code repo
-This is for learning purpose
+This is for learning purpose only
